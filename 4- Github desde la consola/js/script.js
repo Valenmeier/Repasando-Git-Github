@@ -26,3 +26,7 @@
 //* si modificamos y ponemos git status, nos aparecerá como si hubiesemos modificado un archivo
 
 //Todo --> eliminar archivos de github
+//* Cada que eliminemos un archivo, debemos hacerle commit para que se guarde la configuración
+
+//Todo --> enviar repositorio a github  
+//* Probando subida
