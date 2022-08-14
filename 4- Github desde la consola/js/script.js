@@ -19,3 +19,10 @@
 //? git add --> agrega archivos
 //? git add *.html --> agrega todos los archivos html
 //? git add . --> agrega todos los archivos
+//? git add archivo --> guarda un solo archivo
+//* Ponemos git status denuevo y veremos todos los archivos que estan listos para ser agregados
+
+//? git commit -m "mensaje"--> agrega datos dentro del repositorio de manera permanente
+//* si modificamos y ponemos git status, nos aparecerá como si hubiesemos modificado un archivo
+
+//Todo --> eliminar archivos de github
