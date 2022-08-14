@@ -30,3 +30,8 @@
 
 //Todo --> enviar repositorio a github  
 //* Probando subida
+//* Primero debemos hacer commit
+//* Luego debemos vincular al github utilizando git remote add origin link del repositorio
+//* luego debemos cambiar el nombre de la rama a main con
+//?  git branch -M main
+//* Por ultimo hacemos push con el comando git push -u origin main --> para mandar el push al main

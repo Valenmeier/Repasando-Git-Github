@@ -1,0 +1,4 @@
+//Todo --> Instalación del cliente grafico de Github
+//* Github es un servicio increiblemente flexible que se adapta a nuestras necesidades, podemos modificar los archivos de muchas formas de acuerdo a las necesidades que tenemos en el momento, ej: si necesitas modificar un contenido de manera rápida, puedes entrar a la página de Github y modificar los contenidos en cualquier parte del archivo. Puedes trabajar con la consola desde cualquier entorno, si quieres trabajar con un cliente grafico podemos usar el cliente de escritorio de github
+
+//? El cliente grafico tiene distintas opciones, la de clonar un repositorio, la de crear un repositorio dentro de mi equipo y la de subir un repositorio
