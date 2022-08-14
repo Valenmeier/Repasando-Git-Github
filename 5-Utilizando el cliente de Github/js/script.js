@@ -12,4 +12,4 @@
 
 
 //Todo --> sincronizando repositorios en Github
-//* Para sincronizar los cambios del repositorio que se encuentra online debemos hacer Fetch y pull origin
+//* Para sincronizar los cambios del repositorio que se encuentra online debemos hacer Fetch y pull origin aa probando
