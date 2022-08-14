@@ -25,4 +25,14 @@
 //? LO IDEAL SERIA QUE SIEMPRE SE HAGA UN FETCH
 //* Al mandarlo nos va a aparecer un mensaje en donde nos va a pedir hacer un fetch (Unión entre ambas versiones), aveces con colocar en fetch se soluciona
 //* Pero, en caso de no solucionarse nos aparecerá una ventana en donde nos pondrá que tenemos conflicto, para solucionarlo nos da diversas opciones, usar la version local y perder la remota o utilizar la version remota y perder la local
-//? Si lo abrimos en visual studio nos ca a mostrar dos opciones en donde debemos elegir
+//? Si lo abrimos en visual studio nos ca a mostrar dos opciones en donde debemos elegir --> tocamos commit merge y listo tenemos una versión unificada
+
+//Todo --> Gestionar pull request
+//* Creamos un branch
+//* Para poder unir ambos utilizamos pull request
+//? En vez de unir la información a master, gestiona una discusión entre las personas encargadas del código y si se aprueba correctamente, vamos a poder utilizar el código
+//! El pull request se hace siempre desde la página de GITHUB
+//* Solicitamos la nueva inyeccion de código dentro del nucleo principal de nuestro proyecto
+//! El dueño del proyecto, va a poder aceptarlo o rechazarlo
+//? podemos poner un comentario en github poniendo + sobre una linea de código
+//* Luego podemos aceptar el pull request 
